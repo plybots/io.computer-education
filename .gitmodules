@@ -1,3 +1,6 @@
 [submodule "automotive-parts"]
 	path = automotive-parts
 	url = https://gitlab.plydot.com/sarah/automotive-parts.git
+[submodule "electronics-store"]
+	path = electronics-store
+	url = https://gitlab.plydot.com/winfred/electronics-store.git
